@@ -23,7 +23,6 @@ public class JankenView extends Application {
 	private Button paButton;
 
 	private JankenController jc;//じゃんけん制御オブジェクト変数
-
 	@Override
 	public void start(Stage stage) throws Exception {
 		stage.setTitle("じゃんけんゲーム");
